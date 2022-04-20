@@ -13,11 +13,11 @@ Vary
 - gain unauthorized access
 
 ## Redemption
-- increase password length
+- increase the password length
 - increase password complexity
 - limit login attempts
 - implement captcha
-- multi-factor authenticatio
+- multi-factor authentication
 
 ## ID
 8456e95b-dae6-44ff-bb2b-75a37e16c0c7
