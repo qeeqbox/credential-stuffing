@@ -4,7 +4,7 @@ An adversary may guess the target credentials using a known username and passwor
 
 ## Example #1
 1. Adversary has a stolen username and password pair for a vulnerable
-2. Adversary uses the same pair for other
+2. Adversary uses the same pair for other websites
 
 ## Impact
 Vary
