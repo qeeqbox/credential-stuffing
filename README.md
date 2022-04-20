@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/two-factor-authentication-brute-force-vulnerability/main/two-factor-authentication-brute-force-vulnerability.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/credential-stuffing/main/credential-stuffing.png"></p>
 
 An adversary may guess the target credentials using a known username and password pairs gathered from previous brute-force attacks.
 
